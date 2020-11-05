@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "jsx": "react"
+  },
+  "include": ["src", "types.d.ts"],
+  "exclude": ["node_modules", "dist"]
+}
