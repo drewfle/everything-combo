@@ -1,0 +1,1 @@
+module.exports = require('@drewfle/config/babel/babel.config-jest.js')
